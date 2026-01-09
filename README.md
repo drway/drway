@@ -1,6 +1,6 @@
 ### Hi drway here. 👋
 
-* 🎓 A current student @ [🏫 XJTU](https://www.xjtu.edu.cn/) , majoring in *Measurement and Control*
+* 🎓 A current student @ [🏫 XJTU](https://www.xjtu.edu.cn/) , majoring in *Measurement & Control Technology and Instruments*
 <!--
 **drway/drway** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
